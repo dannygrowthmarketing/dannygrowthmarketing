@@ -1,169 +1,88 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dannygrowthmarketing/dannygrowthmarketing/main/assets/banner.png" alt="Daniel Deepak — Growth Ecosystem Builder" width="100%"/>
+</p>
 
-# Daniel Deepak
+<p align="center">
+  <b>I architect marketing, analytics, automation & AI into systems that compound.</b><br/>
+  <sub>1.42M users · $220K ad spend · 6–18× ROAS · churn 27% → 7%</sub>
+</p>
 
-### Growth & Performance Marketing Leader
-**Full-Funnel Acquisition · Marketing Analytics · AI Automation · B2B SaaS**
-
-*Bengaluru, India · Open to Remote — USA · Europe · UK · Australia*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danny-ai-marketing)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dannygrowthmarketing.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldeepak3519@gmail.com)
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm a **Growth & Performance Marketing professional with 6 years of experience** building data-driven acquisition engines, full-funnel demand generation systems, and marketing analytics infrastructure across **B2B SaaS, global marketplaces, and agency environments**.
-
-My work sits at the intersection of **paid media, analytics, automation, and AI** — turning marketing spend into measurable pipeline and revenue. I've managed multi-channel campaigns across Google, Meta, and LinkedIn, built attribution systems from scratch, and reduced churn while scaling user bases into the millions.
-
-Currently targeting **Senior Growth Marketing Manager, Performance Marketing Lead, Demand Generation Manager, and Marketing Analytics** roles at high-growth companies globally.
+<p align="center">
+  <a href="https://linkedin.com/in/danny-ai-marketing">LinkedIn</a> ·
+  <a href="https://dannygrowthmarketing.com">Website</a> ·
+  <a href="mailto:danieldeepak3519@gmail.com">Email</a>
+</p>
 
 ---
 
-## 📊 Key Achievements
+### The system I build
 
-| Impact Area | Result |
+```mermaid
+flowchart LR
+  P[Paid Media]:::in --> E
+  S[SEO]:::in --> E
+  C[CRM / Lifecycle]:::in --> E
+  CT[Content]:::in --> E
+  E((Growth<br/>System)):::core --> A[Analytics<br/>GA4·SQL·Mixpanel]:::layer
+  E --> AU[Automation<br/>HubSpot·Mailchimp]:::layer
+  E --> AI[AI Workflows]:::layer
+  A --> R[Users · Revenue · Retention]:::out
+  AU --> R
+  AI --> R
+  classDef in fill:#111b25,stroke:#2a3a4b,color:#dce5ee;
+  classDef core fill:#0e1620,stroke:#34e0a1,color:#34e0a1;
+  classDef layer fill:#111b25,stroke:#34e0a1,color:#dce5ee;
+  classDef out fill:#34e0a1,stroke:#34e0a1,color:#06140d;
+```
+
+---
+
+### Results — each tied to where it happened
+
+| Result | Engagement |
 |---|---|
-| 🧲 Leads Generated | **173,000+ conversions** across campaigns |
-| 👥 Platform Scale | **1.42M+ users** scaled at EveryWatch |
-| 📣 Campaign Reach | **26.9M impressions · 475,000+ clicks** |
-| 💰 Ad Spend Managed | **₹44.97L+ (~$54K USD)** across Google & Meta |
-| 📉 CPA Improvement | **33% reduction** ($1.20 → $0.80) |
-| 🔄 Churn Reduction | **27% → 7%** via lifecycle marketing |
-| 📈 Conversion Growth | **+230%** monthly conversions at ClearSpot.ai |
-| 🎯 Pipeline Quality | **MQL → SQL progression: 25–40%** |
+| 1.42M+ users scaled (1.32M new) | EveryWatch |
+| 150K+ leads on $220K ad spend · 6–18× ROAS | EveryWatch |
+| CPA −33% ($1.20 → $0.80) | EveryWatch |
+| Churn 27% → 7% via lifecycle automation | EveryWatch |
+| +230% monthly conversions (900 → 3,000) | ClearSpot.ai |
+| 26.9M impressions · 475K+ clicks · 173K+ conversions | TONI&GUY |
 
 ---
 
-## 🏢 Career History
+### Case studies — receipts, not bullet points
 
-```
-EveryWatch              Growth & Performance Strategy Lead    2024 – 2025  Remote, USA
-ClearSpot.ai            Growth Marketing Manager · B2B SaaS   2023 – 2024  Paris, France
-Masira Digital          Performance Marketing Manager          2021 – 2022  Bengaluru
-QueueBuster POS         Digital Marketing Manager · SaaS       2020 – 2021  Noida
-```
+<details>
+<summary><b>🏆 EveryWatch — a growth engine from near-zero to 1.42M users</b></summary>
 
----
+**Context** — Global luxury watch marketplace, every channel at ground zero.
+**Built** — Multi-channel acquisition (Google, Meta, LinkedIn, YouTube, SEO) + a from-scratch attribution stack (GA4, GTM, Mixpanel, PostgreSQL) + full lifecycle automation.
+**Results** — 1.42M users · 150K leads on $220K spend · CPA −33% · 6–18× ROAS · churn 27% → 7% · 1.6M+ monthly organic impressions.
+➡️ [Full case study](https://github.com/dannygrowthmarketing/everywatch-growth-case-study)
+</details>
 
-## 🛠️ Tech Stack
+<details>
+<summary><b>📈 Marketing Analytics in SQL — the data layer behind the decisions</b></summary>
 
-### Paid Acquisition
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=flat-square&logo=meta&logoColor=white)
-![LinkedIn Ads](https://img.shields.io/badge/LinkedIn_Ads-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+Runnable SQL on a realistic dataset: cohort retention, CPA/ROAS by channel, funnel drop-off, CAC/LTV.
+➡️ [Explore the queries](https://github.com/dannygrowthmarketing/marketing-analytics-sql)
+</details>
 
-### Analytics & Tracking
-![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
-![GTM](https://img.shields.io/badge/GTM-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<details>
+<summary><b>🔁 Lifecycle Automation Playbook — taking churn from 27% to 7%</b></summary>
 
-### Data & Automation
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### CRM & Marketing Ops
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black)
-
-### SEO
-![Ahrefs](https://img.shields.io/badge/Ahrefs-FF6C37?style=flat-square&logo=ahrefs&logoColor=white)
-![Search Console](https://img.shields.io/badge/Search_Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white)
-
-### AI & Automation
-![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+Journey maps, trigger logic, win-back sequences, and an AI-assisted segmentation workflow.
+➡️ [See the playbook](https://github.com/dannygrowthmarketing/lifecycle-automation-playbook)
+</details>
 
 ---
 
-## 🚀 Featured Projects
+### Built with
+`Google Ads` · `Meta Ads` · `LinkedIn Ads` · `GA4` · `GTM` · `Mixpanel` · `Looker Studio` · `SQL` · `Power BI` · `HubSpot` · `Mailchimp` · `Ahrefs` · `Technical SEO` · `CRO` · `AI Workflows`
 
-### 📍 [Toni & Guy Bangalore — Growth Marketing Ecosystem](https://github.com/dannygrowthmarketing)
-Multi-location paid media and SEO operation across a premium salon brand. Built campaign infrastructure, analytics reporting, and digital growth systems. Delivered **26.9M impressions, 475K+ clicks, and 173K+ conversions** from ₹44.97L ad spend with a 36.35% conversion rate.
+### Open to
+Roles where I own the **whole growth system** — remote (USA · UK · Europe · Australia).
+<sub>Searchable: Senior Performance Marketing Manager · Growth Marketing Manager · Marketing Analytics Manager · Demand Generation Manager · Revenue Operations</sub>
 
----
-
-### 📍 [EveryWatch — Full-Funnel Growth Strategy](https://github.com/dannygrowthmarketing)
-End-to-end growth engine for a global luxury watch marketplace. Managed paid acquisition (Google, Meta, LinkedIn, YouTube), SEO, lifecycle marketing, and analytics. Scaled to **1.42M+ users**, generated **150K+ leads**, achieved **6x–18x ROAS**, and cut churn from 27% → 7%.
-
----
-
-### 📍 [Marketing Analytics Dashboards](https://github.com/dannygrowthmarketing)
-Custom reporting and business intelligence systems built with **SQL, PostgreSQL, Looker Studio, and Power BI**. Covers acquisition → MQL → SQL → revenue attribution, channel performance, and funnel efficiency. Designed for real-time decision-making by marketing and sales leadership.
-
----
-
-### 📍 [AI-Powered Marketing Workflows](https://github.com/dannygrowthmarketing)
-Practical AI automation tools built to replace manual marketing processes: content scaling, creative iteration, campaign reporting, audience segmentation, and brief generation. Built using Claude AI and custom prompt engineering frameworks.
-
----
-
-### 📍 [SQL & Power BI — Marketing Intelligence Projects](https://github.com/dannygrowthmarketing)
-Data projects focused on marketing performance analysis, cohort analysis, funnel visualisation, and CAC/LTV modelling. Demonstrates applied analytics skills for marketing operations and demand generation contexts.
-
----
-
-## 🎯 Current Focus
-
-```yaml
-Advanced SQL:          Window functions, CTEs, cohort and funnel analysis
-Power BI:              DAX modelling, marketing performance dashboards
-AI Automation:         Building lean, AI-assisted marketing workflows
-Marketing Technology:  Attribution modelling, RevOps alignment, CDP fundamentals
-Strategic Analytics:   CAC/LTV modelling, pipeline forecasting, demand generation
-```
-
----
-
-## 💼 What I'm Looking For
-
-I'm actively exploring **remote-first or hybrid senior marketing roles** with high-growth companies in:
-
-🇺🇸 **United States** &nbsp;|&nbsp; 🇬🇧 **United Kingdom** &nbsp;|&nbsp; 🇪🇺 **Europe** &nbsp;|&nbsp; 🇦🇺 **Australia** &nbsp;|&nbsp; 🌍 **Remote-First Globally**
-
-**Best-fit roles:**
-- Senior Growth Marketing Manager
-- Performance Marketing Lead
-- Demand Generation Manager
-- Marketing Analytics Manager
-- Marketing Operations Lead
-
-If you're building a lean, data-driven marketing team and need someone who can own full-funnel acquisition, analytics, and optimisation — **let's talk.**
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-| Channel | Link |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/danny-ai-marketing](https://linkedin.com/in/danny-ai-marketing) |
-| 🌐 Portfolio | [dannygrowthmarketing.com](https://dannygrowthmarketing.com) |
-| 📧 Email | [danieldeepak3519@gmail.com](mailto:danieldeepak3519@gmail.com) |
-
-</div>
-
----
-
-<div align="center">
-
-### Mission
-
-*I build growth systems that scale — not just campaigns that spend.*
-*Every number in my work traces back to pipeline, revenue, or retention.*
-*That's the only marketing that matters.*
-
----
-
-*Open to Senior Growth Marketing, Performance Marketing, Demand Generation, and Marketing Analytics roles.*
-*Remote-first. Results-first.*
-
-</div>
+### Connect
+🌐 [dannygrowthmarketing.com](https://dannygrowthmarketing.com) · 💼 [LinkedIn](https://linkedin.com/in/danny-ai-marketing) · 📧 danieldeepak3519@gmail.com
