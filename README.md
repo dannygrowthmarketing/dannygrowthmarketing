@@ -1,88 +1,155 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dannygrowthmarketing/dannygrowthmarketing/main/assets/banner.png" alt="Daniel Deepak — Growth Ecosystem Builder" width="100%"/>
-</p>
+<!-- ============================================================
+     Daniel Deepak · Growth Intelligence
+     Reference 26 · Anno 2026
+     ============================================================ -->
 
-<p align="center">
-  <b>I architect marketing, analytics, automation & AI into systems that compound.</b><br/>
-  <sub>1.42M users · $220K ad spend · 6–18× ROAS · churn 27% → 7%</sub>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dannygrowthmarketing/dannygrowthmarketing/main/hero-movement.svg" alt="Daniel Deepak — Calibre D.D." width="100%" />
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/danny-ai-marketing">LinkedIn</a> ·
-  <a href="https://dannygrowthmarketing.com">Website</a> ·
-  <a href="mailto:danieldeepak3519@gmail.com">Email</a>
-</p>
+<div align="center">
 
----
+<br/>
 
-### The system I build
+`REFERENCE 26 · ATELIER BANGALORE · ANNO 2026`
 
-```mermaid
-flowchart LR
-  P[Paid Media]:::in --> E
-  S[SEO]:::in --> E
-  C[CRM / Lifecycle]:::in --> E
-  CT[Content]:::in --> E
-  E((Growth<br/>System)):::core --> A[Analytics<br/>GA4·SQL·Mixpanel]:::layer
-  E --> AU[Automation<br/>HubSpot·Mailchimp]:::layer
-  E --> AI[AI Workflows]:::layer
-  A --> R[Users · Revenue · Retention]:::out
-  AU --> R
-  AI --> R
-  classDef in fill:#111b25,stroke:#2a3a4b,color:#dce5ee;
-  classDef core fill:#0e1620,stroke:#34e0a1,color:#34e0a1;
-  classDef layer fill:#111b25,stroke:#34e0a1,color:#dce5ee;
-  classDef out fill:#34e0a1,stroke:#34e0a1,color:#06140d;
-```
+# Daniel Deepak
+
+*Engineering growth with the precision of fine watchmaking.*
+
+Six years assembling marketing, analytics and automation into systems that compound —
+measured, attributed, and adjusted under real conditions.
+
+**[LinkedIn](https://linkedin.com/in/danny-ai-marketing) · [EveryWatch Case Study](https://dannygrowthmarketing.github.io/everywatch-growth-intelligence/) · [Email](mailto:danieldeepak3519@gmail.com)**
+
+</div>
+
+<br/>
 
 ---
 
-### Results — each tied to where it happened
+## The Reference
+
+I run the growth function the way a watchmaker assembles a calibre — every part earning its place against a single criterion: does it compound when nobody is watching?
+
+Most growth work optimises a channel. I build movements — instrumented, automated, and tuned for the long arbitrage between effort spent and value returned.
+
+<br/>
+
+---
+
+## The Calibre — How the Movement Runs
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dannygrowthmarketing/dannygrowthmarketing/main/growth-calibre.svg" alt="The Growth Calibre — input wheels, central mainspring, going train, escapement" width="100%" />
+</div>
+
+<br/>
+
+Three input wheels — **Organic**, **Lifecycle**, **Paid** — transmit force into the central calibre. The going train of **Analytics**, **Automation** and **AI** regulates that force into the output: **Revenue & Retention**. No part operates in isolation. None of them runs without instrumentation.
+
+<br/>
+
+---
+
+## The Specifications
+
+| Specification | Value |
+| :--- | :--- |
+| **Campaign budget managed** | $300,000+ |
+| **Years of practice** | 6+ |
+| **Markets served** | US · UK · India |
+| **Sectors** | Luxury · Marketplace · Lifestyle · B2B · B2C |
+| **Specialisation** | Growth · Performance · Analytics · Automation |
+| **Reference period** | 2020 — present |
+
+<br/>
+
+---
+
+## I. The Collection
+
+<br/>
+
+#### Lot 01 · EveryWatch · Growth Intelligence
+> **20× growth in seventeen months. 34× lifetime ROAS. A movement, observed.**
+>
+> A working document on the EveryWatch growth function — two clear inflections, the systems that produced them, and the architecture beneath both. Built across organic, paid, lifecycle and automation.
+>
+> **[→ Open the case-back](https://dannygrowthmarketing.github.io/everywatch-growth-intelligence/)** &nbsp;·&nbsp; *Reference 24/25*
+
+<br/>
+
+#### Lot 02 · TONI&GUY India · The Sixteen-Store Ecosystem
+> **26.9M impressions. -67% CPC. ₹369M revenue.**
+>
+> A growth ecosystem assembled across sixteen physical locations and a national digital footprint. Local search, paid efficiency, and a unified measurement layer.
+>
+> **[→ Open the case-back](https://github.com/dannygrowthmarketing/toniandguy-growth-case-study)** &nbsp;·&nbsp; *Reference 23/24*
+
+<br/>
+
+---
+
+## II. Results — certified, not claimed
 
 | Result | Engagement |
-|---|---|
-| 1.42M+ users scaled (1.32M new) | EveryWatch |
-| 150K+ leads on $220K ad spend · 6–18× ROAS | EveryWatch |
-| CPA −33% ($1.20 → $0.80) | EveryWatch |
-| Churn 27% → 7% via lifecycle automation | EveryWatch |
-| +230% monthly conversions (900 → 3,000) | ClearSpot.ai |
-| 26.9M impressions · 475K+ clicks · 173K+ conversions | TONI&GUY |
+| :--- | :--- |
+| 1.42M+ users scaled · 20× monthly growth | EveryWatch |
+| 34× lifetime ROAS · peak 105× · $23K spend | EveryWatch |
+| $0.10 CPL at peak efficiency | EveryWatch |
+| 41.3M organic impressions · 1.06M clicks | EveryWatch |
+| 26.9M impressions · 475K+ clicks | TONI&GUY India |
+| -67% CPC · ₹369M attributed revenue | TONI&GUY India |
+
+<br/>
 
 ---
 
-### Case studies — receipts, not bullet points
+## III. Growth Systems
 
-<details>
-<summary><b>🏆 EveryWatch — a growth engine from near-zero to 1.42M users</b></summary>
+| № | Complication | What it does |
+| :-: | :--- | :--- |
+| 01 | **Mainspring · Organic** | The engine that runs without external power. Programmatic content, structured pages, long-tail search at scale. |
+| 02 | **Escapement · Paid** | Regulated, precise, controlled energy. Google · Meta · LinkedIn — used as a scalpel, not a fire hose. |
+| 03 | **Power Reserve · Lifecycle** | Stored value over time. Behavioural segmentation, triggered messaging, retention curves that flatten. |
+| 04 | **Going Train · Automation** | Transmitted force without human hands. N8N · Zapier · Python · LLM-assisted workflows. |
+| 05 | **Regulator · Analytics** | Measures everything. Adjusts everything. GA4 · BigQuery · SQL · Looker Studio · Power BI. |
 
-**Context** — Global luxury watch marketplace, every channel at ground zero.
-**Built** — Multi-channel acquisition (Google, Meta, LinkedIn, YouTube, SEO) + a from-scratch attribution stack (GA4, GTM, Mixpanel, PostgreSQL) + full lifecycle automation.
-**Results** — 1.42M users · 150K leads on $220K spend · CPA −33% · 6–18× ROAS · churn 27% → 7% · 1.6M+ monthly organic impressions.
-➡️ [Full case study](https://github.com/dannygrowthmarketing/everywatch-growth-case-study)
-</details>
-
-<details>
-<summary><b>📈 Marketing Analytics in SQL — the data layer behind the decisions</b></summary>
-
-Runnable SQL on a realistic dataset: cohort retention, CPA/ROAS by channel, funnel drop-off, CAC/LTV.
-➡️ [Explore the queries](https://github.com/dannygrowthmarketing/marketing-analytics-sql)
-</details>
-
-<details>
-<summary><b>🔁 Lifecycle Automation Playbook — taking churn from 27% to 7%</b></summary>
-
-Journey maps, trigger logic, win-back sequences, and an AI-assisted segmentation workflow.
-➡️ [See the playbook](https://github.com/dannygrowthmarketing/lifecycle-automation-playbook)
-</details>
+<br/>
 
 ---
 
-### Built with
-`Google Ads` · `Meta Ads` · `LinkedIn Ads` · `GA4` · `GTM` · `Mixpanel` · `Looker Studio` · `SQL` · `Power BI` · `HubSpot` · `Mailchimp` · `Ahrefs` · `Technical SEO` · `CRO` · `AI Workflows`
+## IV. Executive Notes
 
-### Open to
-Roles where I own the **whole growth system** — remote (USA · UK · Europe · Australia).
-<sub>Searchable: Senior Performance Marketing Manager · Growth Marketing Manager · Marketing Analytics Manager · Demand Generation Manager · Revenue Operations</sub>
+> ***i.*** &nbsp; **Measure first.** Every channel earns its instrumentation before its budget.
+>
+> ***ii.*** &nbsp; **Plug leaks before scaling.** A 5% lift in retention compounds harder than a 15% reduction in CPL. The math is not the instinct.
+>
+> ***iii.*** &nbsp; **Movements over campaigns.** If a result cannot be re-produced without rebuilding it, it was not real.
+>
+> ***iv.*** &nbsp; **Data with context, or not at all.** A number without a cause is decoration.
+>
+> ***v.*** &nbsp; **Compounding over shortcuts.** Six months of foundational work beats six weeks of optics. The discipline is to be patient in public.
 
-### Connect
-🌐 [dannygrowthmarketing.com](https://dannygrowthmarketing.com) · 💼 [LinkedIn](https://linkedin.com/in/danny-ai-marketing) · 📧 danieldeepak3519@gmail.com
+<br/>
+
+---
+
+<div align="center">
+
+`OPEN TO PRINCIPAL-LEVEL GROWTH ROLES · REMOTE · US · UK · EUROPE · AUSTRALIA`
+
+<br/>
+
+*Senior Performance Marketing Manager · Growth Marketing Manager · Marketing Analytics Manager · Demand Generation · Revenue Operations*
+
+<br/>
+
+**[dannygrowthmarketing.com](https://dannygrowthmarketing.com) · [LinkedIn](https://linkedin.com/in/danny-ai-marketing) · danieldeepak3519@gmail.com**
+
+<br/>
+
+`ATELIER BANGALORE · ANNO 2026 · THE WORKING DOCUMENT CONTINUES`
+
+</div>
