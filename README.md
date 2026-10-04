@@ -19,7 +19,7 @@ I trace your customer from first search to the till and back for the second visi
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/toni-and-guy.html"><img src="https://toniandguyhairdressing.com/cdn/shop/files/unnamed-2.jpg?width=1200&amp;height=640&amp;crop=center" alt="TONI&GUY salon" width="100%"></a><br><b>TONI&GUY Bangalore</b> · 16 salons<br><b>+14.7%</b> revenue, six months vs last year (₹14.04 → ₹16.10 Cr)</td>
+<td width="50%" valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/toni-and-guy.html"><img src="https://toniandguyhairdressing.com/cdn/shop/files/unnamed-2.jpg?width=1200&amp;height=640&amp;crop=center" alt="TONI&GUY salon" width="100%"></a><br><b>TONI&GUY Bangalore</b> · 16 salons<br><b>+1.3% → +14.7%</b> growth on last year, before vs after I joined. ₹48 Cr through the till in 20 months</td>
 <td width="50%" valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/mr-jewels.html"><img src="https://mrjewels.in/cdn/shop/files/019A029F-3161-4BDF-9945-5674A88D011F.jpg?width=600" alt="MR Jewels ring" width="100%"></a><br><b>MR Jewels</b> · jewellery D2C<br>Google claimed ₹12.56 Cr in a ₹1.07 Cr month. <b>−66%</b> showroom CPC</td>
 </tr>
 <tr>
