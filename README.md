@@ -11,6 +11,12 @@ I trace your customer from first search to the till and back for the second visi
 | Seeing "great ROAS" but flat revenue | A reconciliation of platform claims vs your till |
 | Winning first visits but not repeat ones | A remarketing + retention loop with a number on it |
 
+<a href="https://dannygrowthmarketing.github.io/revenue-casebook/"><img src="results.svg" alt="Before and after: TONI&GUY revenue growth +1.3% to +14.7%, Google CPC ₹8.63 to ₹4.58; MR Jewels showroom CPC ₹38.60 to ₹13.13; Gold Coins priced services 0 to 17, reviews answered 80% to 100%; Elites Dental profile entries 300 to 121; Foremost crawl issues 19 to 0; EveryWatch monthly new users 9.1K to 182.8K" width="100%"></a>
+
+<a href="https://dannygrowthmarketing.github.io/revenue-casebook/resort.html#cview"><img src="customer-view.svg" alt="What the customer sees on Google: Gold Coins Club & Resort profile before (no services, no brunch hours, 20 unanswered reviews) and after (17 priced services, Sunday brunch hours, all reviews answered)" width="100%"></a>
+
+<img src="method.svg" alt="How an engagement runs: Find, Diagnose, Fix, Prove" width="100%">
+
 ### What I build and run
 
 | | |
@@ -32,20 +38,33 @@ I trace your customer from first search to the till and back for the second visi
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/toni-and-guy.html"><img src="https://toniandguyhairdressing.com/cdn/shop/files/unnamed-2.jpg?width=1200&amp;height=640&amp;crop=center" alt="TONI&GUY salon" width="100%"></a><br><b>TONI&GUY Bangalore</b> · 16 salons<br><b>+1.3% → +14.7%</b> growth on last year, before vs after I joined. Website, Android app, booking CRM, 51 campaigns, 16 profiles</td>
-<td width="50%" valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/mr-jewels.html"><img src="https://mrjewels.in/cdn/shop/files/019A029F-3161-4BDF-9945-5674A88D011F.jpg?width=600" alt="MR Jewels ring" width="100%"></a><br><b>MR Jewels</b> · jewellery D2C<br>Google claimed 11.8× the company's revenue; reconciled to Shopify. Showroom CPC <b>₹38.60 → ₹13.13</b></td>
+<td width="50%" valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/toni-and-guy.html"><img src="https://toniandguyhairdressing.com/cdn/shop/files/2025-02-11.webp?width=1000" alt="TONI&GUY salon front, Bengaluru" width="100%"></a><br><b>TONI&GUY Bangalore</b> · 16 salons<br><b>+1.3% → +14.7%</b> growth on last year, before vs after I joined. Website, Android app, booking CRM, 51 campaigns, 16 profiles</td>
+<td width="50%" valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/mr-jewels.html"><img src="https://mrjewels.in/cdn/shop/collections/hvdsc.png?width=1000" alt="MR Jewels bird ear cuff" width="100%"></a><br><b>MR Jewels</b> · jewellery D2C<br>Google claimed 11.8× the company's revenue; reconciled to Shopify. Showroom CPC <b>₹38.60 → ₹13.13</b></td>
 </tr>
 <tr>
-<td valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/resort.html"><img src="https://www.goldcoinsresort.in/images/stay/aqua-rooms-beside-water-court-dusk-1200.jpg" alt="Gold Coins resort" width="100%"></a><br><b>Gold Coins Club & Resort</b> · active<br>5,621 enquiries joined in one dashboard. Found conversion <b>24% → 14%</b>, Q2 to Q3. 45 Business Profile changes</td>
-<td valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/elites-dental.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/A_dental_chair_in_a_dentist_clinic_in_North_Carolina%2C_United_States.jpg/960px-A_dental_chair_in_a_dentist_clinic_in_North_Carolina%2C_United_States.jpg" alt="Dental clinic" width="100%"></a><br><b>Elites Dental Care</b> · active<br>4.9★ · 271 reviews. Profile and Search rebuilt; website, booking + payment, patient CRM in build</td>
+<td valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/resort.html"><img src="https://dannygrowthmarketing.github.io/revenue-casebook/img/gc-hero.webp" alt="Gold Coins resort" width="100%"></a><br><b>Gold Coins Club & Resort</b> · active<br>5,621 enquiries joined in one dashboard. Found conversion <b>24% → 14%</b>, Q2 to Q3. 45 Business Profile changes</td>
+<td valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/elites-dental.html"><img src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=1100&amp;q=70&amp;auto=format&amp;fit=crop" alt="Dental treatment room (stock)" width="100%"></a><br><b>Elites Dental Care</b> · active<br>4.9★ · 271 reviews. Profile and Search rebuilt; website, booking + payment, patient CRM in build</td>
 </tr>
 <tr>
-<td valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/foremost-pa.html"><img src="https://www.foremostpa.com/_next/image?url=%2Fimages%2Fdestroyed-houses-on-ocean-coast-hurricane-milton-consequences-in-englewood-florida-storm.webp&amp;w=1200&amp;q=75" alt="Storm damage, Florida" width="100%"></a><br><b>Foremost Public Adjusters</b> · Florida<br>24 pages rewritten, 19 site fixes, all-services campaign at <b>$48</b> per lead (3 leads)</td>
-<td valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/everywatch.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rolex_Watch_Closeup_%28203245659%29.jpeg/960px-Rolex_Watch_Closeup_%28203245659%29.jpeg" alt="Luxury watch" width="100%"></a><br><b>EveryWatch</b> · marketplace<br><b>20×</b> monthly new users; organic impressions <b>0.10M → 5.5M</b> a month</td>
+<td valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/foremost-pa.html"><img src="https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1100&amp;h=700&amp;q=70&amp;auto=format&amp;fit=crop" alt="South Florida home (stock)" width="100%"></a><br><b>Foremost Public Adjusters</b> · Florida<br>24 pages rewritten, 19 site fixes, all-services campaign at <b>$48</b> per lead (3 leads)</td>
+<td valign="top"><a href="https://dannygrowthmarketing.github.io/revenue-casebook/everywatch.html"><img src="https://images.unsplash.com/photo-1547996160-81dfa63595aa?w=1100&amp;h=700&amp;q=70&amp;auto=format&amp;fit=crop" alt="Luxury watch (stock)" width="100%"></a><br><b>EveryWatch</b> · marketplace<br><b>20×</b> monthly new users; organic impressions <b>0.10M → 5.5M</b> a month</td>
 </tr>
 </table>
 
 Also: [Swift Restoration](https://dannygrowthmarketing.github.io/revenue-casebook/swift-restoration.html) (Iowa, diagnostic) · [Leak library](https://dannygrowthmarketing.github.io/revenue-casebook/leaks.html)
+
+### Last 30 days
+
+| When | Client | What I shipped |
+| :-- | :-- | :-- |
+| 12 Oct | Arise & Shine Unisex Salon | [Growth audit + proposal](https://dannygrowthmarketing.github.io/arise-shine-growth-plan/): site was set to noindex; 17 salons within 1.5 km; before/after phone screens |
+| 10 Oct | TONI&GUY | [August report](https://dannygrowthmarketing.github.io/toniguy-august-2026-report/) published |
+| 7 Oct | B Traditional Wood Pressed Oil Mill | 9-page website concept for a 6-mill business (referral from a past client) |
+| 1 Oct | Elites Dental Care | Search relaunched: 7 treatment ad groups, ₹85 CPC cap |
+| 28 Sep | Gold Coins Club & Resort | 45 Business Profile changes live; sales + marketing dashboard across 6 sources |
+| 27 Sep | Elites Dental Care | Business Profile rebuilt: 300 stuffed services → 121 |
+
+Every case page now has a **"What the customer sees"** section: search ad, Maps, booking, cart and owner dashboard, on a phone, before and after my work.
 
 ### Full client reports
 
@@ -54,6 +73,7 @@ Also: [Swift Restoration](https://dannygrowthmarketing.github.io/revenue-caseboo
 | TONI&GUY Bangalore | [Final](https://dannygrowthmarketing.github.io/toniguy-final-report/) · [August](https://dannygrowthmarketing.github.io/toniguy-august-2026-report/) · [July](https://dannygrowthmarketing.github.io/toniguy-july-2026-report/) · [June](https://dannygrowthmarketing.github.io/toniguy-june-2026-report/) |
 | MR Jewels | [Seven weeks](https://dannygrowthmarketing.github.io/mrjewels-seven-weeks/) · [August](https://dannygrowthmarketing.github.io/mrjewels-august-2026-report/) · [All-time account review](https://dannygrowthmarketing.github.io/mrjewels-google-ads-case-study/) |
 | Elites Dental Care | [Growth report](https://dannygrowthmarketing.github.io/elites-dental-growth-report/Elites-Dental-Care-Growth-Report_2.html) |
+| Arise & Shine (prospect) | [Growth audit + proposal](https://dannygrowthmarketing.github.io/arise-shine-growth-plan/) |
 | Foremost Public Adjusters | [Growth report](https://dannygrowthmarketing.github.io/foremost-pa-growth-case-study/) · [Brand audit](https://dannygrowthmarketing.github.io/foremost-pa-growth-case-study/Foremost_GoogleAds_Brand_Visibility_Audit.html) |
 | Swift Restoration | [Case study](https://github.com/dannygrowthmarketing/swift-restoration-growth-marketing-case-study) |
 
