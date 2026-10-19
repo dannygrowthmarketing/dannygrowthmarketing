@@ -13,7 +13,7 @@ I trace your customer from first search to the till and back for the second visi
 
 <a href="https://dannygrowthmarketing.github.io/revenue-casebook/elites-dental-dashboard.html"><img src="this-month.svg" alt="This month: Elites Dental cost per click ₹79.45 to ₹21.20; Gold Coins 55 reported conversions, about 9 real leads; TONI&GUY Bengaluru 36 rivals within 5 km mapped and 355 pages built" width="100%"></a>
 
-**New:** [Elites Dental live dashboard](https://dannygrowthmarketing.github.io/revenue-casebook/elites-dental-dashboard.html) · [TONI&GUY Bengaluru, stage one](https://dannygrowthmarketing.github.io/revenue-casebook/toniguy-bengaluru.html) · [How I audit](https://dannygrowthmarketing.github.io/audit-journey/) · [How I work](https://dannygrowthmarketing.github.io/how-i-work/)
+**New:** [Ad showroom: live ads on phone and laptop](https://dannygrowthmarketing.github.io/revenue-casebook/ads.html) · [Elites Dental live dashboard](https://dannygrowthmarketing.github.io/revenue-casebook/elites-dental-dashboard.html) · [TONI&GUY Bengaluru, stage one](https://dannygrowthmarketing.github.io/revenue-casebook/toniguy-bengaluru.html) · [How I audit](https://dannygrowthmarketing.github.io/audit-journey/) · [How I work](https://dannygrowthmarketing.github.io/how-i-work/)
 
 <a href="https://dannygrowthmarketing.github.io/revenue-casebook/"><img src="results.svg" alt="Before and after: TONI&GUY revenue growth +1.3% to +14.7%, Google CPC ₹8.63 to ₹4.58; MR Jewels showroom CPC ₹38.60 to ₹13.13; Gold Coins priced services 0 to 17, reviews answered 80% to 100%; Elites Dental profile entries 300 to 121; Foremost crawl issues 19 to 0; EveryWatch monthly new users 9.1K to 182.8K" width="100%"></a>
 
@@ -61,6 +61,7 @@ Also: [Swift Restoration](https://dannygrowthmarketing.github.io/revenue-caseboo
 
 | When | Client | What I shipped |
 | :-- | :-- | :-- |
+| 19 Oct | Gold Coins · Elites Dental | [Ad showroom](https://dannygrowthmarketing.github.io/revenue-casebook/ads.html): 23 live Search, Performance Max and Meta ads drawn as the customer sees them |
 | 19 Oct | Elites Dental Care | [Live dashboard](https://dannygrowthmarketing.github.io/revenue-casebook/elites-dental-dashboard.html): cost per click ₹79.45 → ₹21.20; calls and directions plan |
 | 17 Oct | Gold Coins Club & Resort | Search rebuilt (10 ad groups, 49 negatives), Performance Max on real-lead goals; found 52 of 55 "conversions" were map taps |
 | 16 Oct | TONI&GUY Bengaluru (franchise) | [Stage one](https://dannygrowthmarketing.github.io/revenue-casebook/toniguy-bengaluru.html): competitor map, 355-page site in preview |
