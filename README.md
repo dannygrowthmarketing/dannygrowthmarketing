@@ -2,6 +2,8 @@
 
 ### Independent revenue consultant · AI-assisted · Bengaluru
 
+**[Resume →](https://dannygrowthmarketing.github.io/revenue-casebook/resume.html)** every result links to its case, ad or dashboard · [Ad showroom](https://dannygrowthmarketing.github.io/revenue-casebook/ads.html) · [Casebook](https://dannygrowthmarketing.github.io/revenue-casebook/)
+
 I don't start with the marketing channel. I start with the business problem: **customer → journey → data → leak → diagnosis → fix → revenue → retention → measurement**.
 I trace your customer from first search to the till and back for the second visit, find the step where money stops, fix it in order, and report bills, bookings and orders. Not clicks.
 
